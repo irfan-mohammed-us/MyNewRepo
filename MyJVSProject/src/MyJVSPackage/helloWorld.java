@@ -8,6 +8,7 @@ public class helloWorld {
 		System.out.println("My First GitHub Push");
 		System.out.println("My First GitHub Fetch");
 		System.out.println("My Second GitHub Push");
+		System.out.println("My Second GitHub Pull/Fetch");
 
 	}
 
